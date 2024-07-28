@@ -2,7 +2,7 @@
 layout:     post
 title:      Improving sampling routines for correlation matrices and R interface
 subtitle:   GSoC' 24
-date:       2024-06-16
+date:       2024-07-28
 author:     Atrayee Samanta
 header-img: img/gsocheader.jpg
 catalog: true
